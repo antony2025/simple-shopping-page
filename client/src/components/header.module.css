@@ -1,0 +1,12 @@
+.logo {
+  width: 200px;
+}
+
+.currentUser {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  width: 50px;
+}

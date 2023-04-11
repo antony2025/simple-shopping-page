@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.input {
+  width: 50px;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
